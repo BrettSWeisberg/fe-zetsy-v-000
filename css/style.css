@@ -19,8 +19,6 @@ body {
 
 /* Write all remaining styles here */
 
-color: rgb(152,173,166);
-text-decoration: none;
 
 h1 {
 	padding-bottom: 10px;
@@ -29,6 +27,7 @@ h1 {
 	font-weight: normal;
 	border-bottom: 1 px solid #ccc;
 	font-family:serif;
+	color: rgb(111,127,122);
 }
 
 h2 {
@@ -36,4 +35,8 @@ h2 {
     font-size: 2em;
     display: block;
     font-weight: bold;
+}
+
+p {
+	color: rgb(111,127,122);
 }
