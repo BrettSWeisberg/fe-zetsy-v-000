@@ -43,5 +43,6 @@ p {
 }
 
 footer{
-	float: left
+	font-size: 1em;
+	text-align: right
 }
