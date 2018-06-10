@@ -46,3 +46,8 @@ p {
 	font-size: 1em;
 	text-align: right;
 }
+
+h2 a {
+	border: 5px #ccc solid;
+	padding: 1px;
+}
