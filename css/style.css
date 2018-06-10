@@ -19,7 +19,14 @@ body {
 
 /* Write all remaining styles here */
 
+color: rgb(152,173,166);
+text-decoration: none;
+
 h1 {
-	color: rgb(152,173,166);
-	text-decoration: none;
+	padding-bottom: 10px;
+	margin: 0 0 5px;
+	font-size: 5em;
+	font-weight: normal;
+	border-bottom: 1 px solid #ccc;
+	font-family:serif;
 }
